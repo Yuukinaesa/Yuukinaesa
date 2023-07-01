@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.3.0
         with:       
           CREDLY_USER: <arfan-hidayat-priyantono> # optional, but default will use the same
