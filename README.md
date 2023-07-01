@@ -2,6 +2,7 @@
 
 [![An image of @yuukinaesa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yuukinaesa)](https://holopin.io/@yuukinaesa)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0e9b4722-00eb-44d7-864f-2acd60abe865" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **Yuukinaesa/yuukinaesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
