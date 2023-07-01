@@ -8,7 +8,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ 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 }}
           REPOSITORY: <yuukinaesa>/<yuukinaesa> # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: <arfan-hidayat-priyantono> # optional, but default will use the same from github
