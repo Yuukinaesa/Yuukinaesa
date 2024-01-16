@@ -1,11 +1,13 @@
 name: Update badges
-on: push
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: <arfan-hidayat-priyantono> # optional, but default will use the same from githb
+        uses: arfan-hidayat-priyantono/badge-readme@main
